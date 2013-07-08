@@ -2,6 +2,7 @@
 # format is <lastModified> <length> <SHA-1> <path>
 # Encoding is UTF-8
 1373301669000 1062 927520eb1575ab5947e955f8fc564194a05b56ef /Users/zezzi/Downloads/FadIntroduccionProject/FadIntroduccion/build/res/all/debug/values/values.xml
+1373307783000 276 a8c32eb9e696c4e873e4c319b57bdfd12f2eecda /Users/zezzi/Downloads/FadIntroduccionProject/FadIntroduccion/build/res/all/debug/layout/detail_task.xml
 1373297361000 3760 9d45e7de00dac30e9738dc369dece2835bf9677e /Users/zezzi/Downloads/FadIntroduccionProject/FadIntroduccion/build/res/all/debug/drawable-mdpi/ic_launcher.png
 1373297361000 24780 6c2954bdacb8129ac00edfd084b98daf226518e3 /Users/zezzi/Downloads/FadIntroduccionProject/FadIntroduccion/build/res/all/debug/drawable-xxhdpi/ic_launcher.png
 1373297361000 7783 03172612ec7d8d2cc6295a185410c3e6501771aa /Users/zezzi/Downloads/FadIntroduccionProject/FadIntroduccion/build/res/all/debug/drawable-hdpi/ic_launcher.png
@@ -10,5 +11,5 @@
 1373297361000 203 19aedb7cdc3386344e36087b035a0a6b2b91d4cd /Users/zezzi/Downloads/FadIntroduccionProject/FadIntroduccion/build/res/all/debug/values-v11/values.xml
 1373301669000 1596 c31ccacaf550f03f73aecc11291e1aab943506a5 /Users/zezzi/Downloads/FadIntroduccionProject/FadIntroduccion/build/res/all/debug/layout/activity_main.xml
 1373303356000 252 34a68dcf00011a0648389263525667b95010e146 /Users/zezzi/Downloads/FadIntroduccionProject/FadIntroduccion/build/res/all/debug/menu/fad_.xml
-1373301669000 324 b3708443cadf976787950f69e3d50c153c5303b8 /Users/zezzi/Downloads/FadIntroduccionProject/FadIntroduccion/build/res/all/debug/layout/list.xml
+1373307374000 323 a5171f9990468562c5430dfd657f5cdf16b5b2ba /Users/zezzi/Downloads/FadIntroduccionProject/FadIntroduccion/build/res/all/debug/layout/list.xml
 1373297361000 12356 75154d4f6e93c8832a74d3c27c8cf0d44672ea3e /Users/zezzi/Downloads/FadIntroduccionProject/FadIntroduccion/build/res/all/debug/drawable-xhdpi/ic_launcher.png

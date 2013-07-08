@@ -121,6 +121,16 @@
                 path="/Users/zezzi/Downloads/FadIntroduccionProject/FadIntroduccion/src/main/res/layout/list.xml"
                 qualifiers=""
                 type="layout" />
+            <file
+                name="DetaiTask"
+                path="/Users/zezzi/Downloads/FadIntroduccionProject/FadIntroduccion/src/main/res/layout/DetaiTask.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="detail_task"
+                path="/Users/zezzi/Downloads/FadIntroduccionProject/FadIntroduccion/src/main/res/layout/detail_task.xml"
+                qualifiers=""
+                type="layout" />
         </source>
         <source path="/Users/zezzi/Downloads/FadIntroduccionProject/FadIntroduccion/build/res/rs/debug" />
     </dataSet>

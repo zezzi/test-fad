@@ -69,7 +69,7 @@ public class Task extends Activity implements AdapterView.OnItemClickListener {
 
 		/*
 		 * Parte del paso 6*/
-        //lv.setOnItemClickListener(this);
+        lv.setOnItemClickListener(this);
 
 
          /* Fin Paso 6 */
