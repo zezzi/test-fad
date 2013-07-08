@@ -27,15 +27,20 @@
     </layouts>
   </component>
   <component name="AndroidLogFilters">
-    <option name="TOOL_WINDOW_CUSTOM_FILTER" value="Fad" />
-    <option name="TOOL_WINDOW_LOG_LEVEL" value="ERROR" />
+    <option name="TOOL_WINDOW_CUSTOM_FILTER" value="prueba" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="364e4167-b9b1-4bf7-aec0-973376e1210f" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FadIntroduccion/src/main/res/layout/DetaiTask.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FadIntroduccion/build/res/all/debug/layout/list.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FadIntroduccion/src/main/java/com/zezzi/fadintroduccion/MyAdapter.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FadIntroduccion/src/main/java/com/zezzi/fadintroduccion/Task.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FadIntroduccion/src/main/res/layout/list.xml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FadIntroduccion/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/FadIntroduccion/src/main/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FadIntroduccion/src/main/java/com/zezzi/fadintroduccion/DetailTask.java" afterPath="$PROJECT_DIR$/FadIntroduccion/src/main/java/com/zezzi/fadintroduccion/DetailTask.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FadIntroduccion/src/main/java/com/zezzi/fadintroduccion/Fad_Activity.java" afterPath="$PROJECT_DIR$/FadIntroduccion/src/main/java/com/zezzi/fadintroduccion/Fad_Activity.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FadIntroduccion/build/source/r/debug/com/zezzi/fadintroduccion/R.java" afterPath="$PROJECT_DIR$/FadIntroduccion/build/source/r/debug/com/zezzi/fadintroduccion/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FadIntroduccion/src/main/java/com/zezzi/fadintroduccion/Task.java" afterPath="$PROJECT_DIR$/FadIntroduccion/src/main/java/com/zezzi/fadintroduccion/Task.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FadIntroduccion/build/res/all/debug/layout/list.xml" afterPath="$PROJECT_DIR$/FadIntroduccion/build/res/all/debug/layout/list.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FadIntroduccion/build/res/all/debug/layout/detail_task.xml" afterPath="$PROJECT_DIR$/FadIntroduccion/build/res/all/debug/layout/detail_task.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FadIntroduccion/src/main/res/layout/detail_task.xml" afterPath="$PROJECT_DIR$/FadIntroduccion/src/main/res/layout/detail_task.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="FadIntroduccion.iws" />
@@ -105,59 +110,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="activity_main.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/FadIntroduccion/src/main/res/layout/activity_main.xml">
-          <provider editor-type-id="text-editor">
-            <state line="28" column="15" selection-start="1552" selection-end="1552" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="555">
-              <folding>
-                <element signature="e#414#440#0" expanded="true" />
-                <element signature="e#891#910#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-          <provider selected="true" editor-type-id="android-designer">
-            <state />
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Fad_Activity.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/FadIntroduccion/src/main/java/com/zezzi/fadintroduccion/Fad_Activity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="40" selection-start="756" selection-end="756" vertical-scroll-proportion="0.0" vertical-offset="324" max-vertical-offset="975">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="detail_task.xml" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/FadIntroduccion/src/main/res/layout/detail_task.xml">
-          <provider editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="495">
-              <folding />
-            </state>
-          </provider>
-          <provider selected="true" editor-type-id="android-designer">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="fad_.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/FadIntroduccion/src/main/res/menu/fad_.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="0" selection-start="252" selection-end="252" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="180">
-              <folding>
-                <marker date="1373303107000" expanded="true" signature="125:144" placeholder="&quot;@string/mnuDelete&quot;" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MyAdapter.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/FadIntroduccion/src/main/java/com/zezzi/fadintroduccion/MyAdapter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="35" selection-start="343" selection-end="343" vertical-scroll-proportion="0.0" vertical-offset="219" max-vertical-offset="615">
+            <state line="21" column="10" selection-start="499" selection-end="499" vertical-scroll-proportion="0.0" vertical-offset="375" max-vertical-offset="960">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -168,7 +124,31 @@
       <file leaf-file-name="DetailTask.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/FadIntroduccion/src/main/java/com/zezzi/fadintroduccion/DetailTask.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="0" selection-start="148" selection-end="148" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="240">
+            <state line="25" column="25" selection-start="736" selection-end="736" vertical-scroll-proportion="0.0" vertical-offset="126" max-vertical-offset="660">
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#967#1021#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="detail_task.xml" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/FadIntroduccion/src/main/res/layout/detail_task.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="18" selection-start="461" selection-end="461" vertical-scroll-proportion="0.44354838" vertical-offset="0" max-vertical-offset="372">
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="android-designer">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AndroidManifest.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FadIntroduccion/src/main/AndroidManifest.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="23" column="19" selection-start="834" selection-end="834" vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="510">
               <folding />
             </state>
           </provider>
@@ -178,6 +158,24 @@
         <entry file="file://$PROJECT_DIR$/FadIntroduccion/src/main/res/values/strings.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state line="6" column="47" selection-start="261" selection-end="261" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="270">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="styles.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FadIntroduccion/src/main/res/values/styles.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="390">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dimens.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FadIntroduccion/src/main/res/values/dimens.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="165">
               <folding />
             </state>
           </provider>
@@ -237,15 +235,15 @@
         <option value="$PROJECT_DIR$/FadIntroduccion/src/main/res/values/strings.xml" />
         <option value="$PROJECT_DIR$/FadIntroduccion/src/main/res/layout/activity_main.xml" />
         <option value="$PROJECT_DIR$/FadIntroduccion/src/main/java/com/zezzi/fadintroduccion/MyAdapter.java" />
-        <option value="$PROJECT_DIR$/FadIntroduccion/src/main/java/com/zezzi/fadintroduccion/Fad_Activity.java" />
         <option value="$PROJECT_DIR$/FadIntroduccion/src/main/res/menu/fad_.xml" />
         <option value="$PROJECT_DIR$/FadIntroduccion/src/main/java/com/zezzi/fadintroduccion/Tasks.java" />
-        <option value="$PROJECT_DIR$/FadIntroduccion/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/FadIntroduccion/src/main/res/layout/list.xml" />
-        <option value="$PROJECT_DIR$/FadIntroduccion/src/main/java/com/zezzi/fadintroduccion/DetailTask.java" />
         <option value="$PROJECT_DIR$/FadIntroduccion/src/main/res/layout/DetaiTask.xml" />
         <option value="$PROJECT_DIR$/FadIntroduccion/src/main/java/com/zezzi/fadintroduccion/Task.java" />
         <option value="$PROJECT_DIR$/FadIntroduccion/src/main/res/layout/detail_task.xml" />
+        <option value="$PROJECT_DIR$/FadIntroduccion/src/main/java/com/zezzi/fadintroduccion/DetailTask.java" />
+        <option value="$PROJECT_DIR$/FadIntroduccion/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/FadIntroduccion/src/main/java/com/zezzi/fadintroduccion/Fad_Activity.java" />
       </list>
     </option>
   </component>
@@ -256,7 +254,7 @@
     <option name="x" value="20" />
     <option name="y" value="22" />
     <option name="width" value="1260" />
-    <option name="height" value="708" />
+    <option name="height" value="705" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -409,6 +407,7 @@
     <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="recentsLimit" value="5" />
+    <property name="UI_DESIGNER_EDITOR_MODE.PaletteToolWindowManager.WIDTH" value="238" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="00198f4976161f" />
     <property name="MemberChooser.copyJavadoc" value="false" />
@@ -422,7 +421,25 @@
     <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
   </component>
-  <component name="RunManager" selected="Android Application.FadIntroduccion">
+  <component name="RunManager" selected="Android Application.Fad_Activity">
+    <configuration default="false" name="Fad_Activity" type="AndroidRunConfigurationType" factoryName="Android Application" temporary="true">
+      <module name="FadIntroduccion" />
+      <option name="ACTIVITY_CLASS" value="com.zezzi.fadintroduccion.Fad_Activity" />
+      <option name="MODE" value="specific_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <RunnerSettings RunnerId="AndroidDebugRunner" />
+      <ConfigurationWrapper RunnerId="AndroidDebugRunner" />
+      <method />
+    </configuration>
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
       <module name="" />
       <option name="TESTING_TYPE" value="0" />
@@ -530,9 +547,15 @@
       <ConfigurationWrapper RunnerId="AndroidDebugRunner" />
       <method />
     </configuration>
-    <list size="1">
+    <list size="2">
       <item index="0" class="java.lang.String" itemvalue="Android Application.FadIntroduccion" />
+      <item index="1" class="java.lang.String" itemvalue="Android Application.Fad_Activity" />
     </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Android Application.Fad_Activity" />
+      </list>
+    </recent_temporary>
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="MAIN_CLASS_NAME" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -548,6 +571,11 @@
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SliceManager">
+    <option name="analysisUIOptions">
+      <AnalysisUIOptions />
+    </option>
+  </component>
   <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="sslv3">
     <option name="USER" value="" />
     <option name="PASSWORD" value="" />
@@ -571,31 +599,36 @@
       <created>1373297007628</created>
       <updated>1373297007628</updated>
     </task>
+    <task id="LOCAL-00001" summary="Se agrego la vista de detalle">
+      <created>1373313024618</created>
+      <updated>1373313024618</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="20" y="22" width="1260" height="708" extended-state="0" />
+    <frame x="20" y="22" width="1260" height="705" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32993197" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.32991454" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3294893" sideWeight="0.670068" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27100495" sideWeight="0.72991455" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.29591838" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.29591838" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2957265" sideWeight="0.67545307" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27008548" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24958813" sideWeight="0.2857143" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24958813" sideWeight="0.20068027" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32993197" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32993197" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32993197" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.33162394" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32991454" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32991454" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3294893" sideWeight="0.70408165" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24958813" sideWeight="0.670068" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3294893" sideWeight="0.70408165" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24958813" sideWeight="0.70408165" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32993197" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24958813" sideWeight="0.72991455" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27008548" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -666,13 +699,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/FadIntroduccion/src/main/res/values/strings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="47" selection-start="261" selection-end="261" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="270">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/FadIntroduccion/build/source/r/debug/com/zezzi/fadintroduccion/R.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="9" column="19" selection-start="237" selection-end="237" vertical-scroll-proportion="0.11214953" vertical-offset="0" max-vertical-offset="735">
@@ -687,58 +713,70 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/FadIntroduccion/src/main/res/layout/activity_main.xml">
-      <provider editor-type-id="text-editor">
-        <state line="28" column="15" selection-start="1552" selection-end="1552" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="555">
-          <folding>
-            <element signature="e#414#440#0" expanded="true" />
-            <element signature="e#891#910#0" expanded="true" />
-          </folding>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="13335">
+          <folding />
         </state>
-      </provider>
-      <provider selected="true" editor-type-id="android-designer">
-        <state />
       </provider>
     </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/sdk/platforms/android-17/android.jar!/android/content/Intent.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="255" column="11" selection-start="21252" selection-end="21252" vertical-scroll-proportion="0.33144477" vertical-offset="3693" max-vertical-offset="8115">
+        <state line="175" column="41" selection-start="15891" selection-end="15891" vertical-scroll-proportion="0.33142856" vertical-offset="2494" max-vertical-offset="8115">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FadIntroduccion/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="19" selection-start="834" selection-end="834" vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="510">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FadIntroduccion/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="47" selection-start="261" selection-end="261" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="270">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FadIntroduccion/src/main/res/values/styles.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="390">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FadIntroduccion/src/main/res/values/dimens.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="384">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/FadIntroduccion/src/main/res/menu/fad_.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="0" selection-start="252" selection-end="252" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="180">
+        <state line="6" column="0" selection-start="252" selection-end="252" vertical-scroll-proportion="0.24725275" vertical-offset="0" max-vertical-offset="364">
           <folding>
-            <marker date="1373303107000" expanded="true" signature="125:144" placeholder="&quot;@string/mnuDelete&quot;" />
+            <element signature="e#125#144#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/FadIntroduccion/src/main/AndroidManifest.xml">
+    <entry file="file://$PROJECT_DIR$/FadIntroduccion/src/main/res/layout/activity_main.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="17" selection-start="497" selection-end="497" vertical-scroll-proportion="0.6147541" vertical-offset="0" max-vertical-offset="510">
-          <folding>
-            <element signature="e#419#437#0" expanded="false" />
-            <element signature="e#590#608#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FadIntroduccion/src/main/res/layout/list.xml">
-      <provider editor-type-id="text-editor">
-        <state line="5" column="43" selection-start="191" selection-end="203" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="225">
+        <state line="7" column="28" selection-start="378" selection-end="378" vertical-scroll-proportion="0.2924791" vertical-offset="0" max-vertical-offset="555">
           <folding />
         </state>
       </provider>
-      <provider selected="true" editor-type-id="android-designer">
+      <provider editor-type-id="android-designer">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/FadIntroduccion/src/main/java/com/zezzi/fadintroduccion/MyAdapter.java">
+    <entry file="file://$PROJECT_DIR$/FadIntroduccion/src/main/java/com/zezzi/fadintroduccion/Fad_Activity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="35" selection-start="343" selection-end="343" vertical-scroll-proportion="0.0" vertical-offset="219" max-vertical-offset="615">
+        <state line="21" column="10" selection-start="499" selection-end="499" vertical-scroll-proportion="0.0" vertical-offset="375" max-vertical-offset="960">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -747,53 +785,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/FadIntroduccion/src/main/java/com/zezzi/fadintroduccion/DetailTask.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="0" selection-start="148" selection-end="148" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="240">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FadIntroduccion/build/res/all/debug/layout/list.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="366">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="13335">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FadIntroduccion/src/main/java/com/zezzi/fadintroduccion/Task.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="69" column="10" selection-start="2410" selection-end="2410" vertical-scroll-proportion="0.24590164" vertical-offset="945" max-vertical-offset="2115">
+        <state line="25" column="25" selection-start="736" selection-end="736" vertical-scroll-proportion="0.0" vertical-offset="246" max-vertical-offset="660">
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1735#1789#0" expanded="true" />
-            <element signature="e#3727#3783#0" expanded="true" />
-            <element signature="e#4516#4573#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FadIntroduccion/src/main/java/com/zezzi/fadintroduccion/Fad_Activity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="40" selection-start="756" selection-end="756" vertical-scroll-proportion="0.0" vertical-offset="324" max-vertical-offset="975">
-          <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#967#1021#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/FadIntroduccion/src/main/res/layout/detail_task.xml">
-      <provider editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="195">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="18" selection-start="461" selection-end="461" vertical-scroll-proportion="0.44354838" vertical-offset="0" max-vertical-offset="372">
           <folding />
         </state>
       </provider>
-      <provider selected="true" editor-type-id="android-designer">
+      <provider editor-type-id="android-designer">
         <state />
       </provider>
     </entry>

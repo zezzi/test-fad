@@ -3,6 +3,7 @@ package com.zezzi.fadintroduccion;
 import android.content.Intent;
 import android.os.Bundle;
 import android.app.Activity;
+import android.util.Log;
 import android.view.Menu;
 import android.view.MenuInflater;
 import android.view.View;
@@ -11,7 +12,7 @@ import android.widget.EditText;
 
 /**
  * Modified by zezzi on 7/8/13.
- * based on GTUG Code by Ykro
+ *
  */
 
 public class Fad_Activity extends Activity implements View.OnClickListener {
@@ -35,11 +36,12 @@ public class Fad_Activity extends Activity implements View.OnClickListener {
 		 *  Paso 3*/
         switch (v.getId()) {
             case R.id.btnAdd:
-                Intent listDataIntent = new Intent(this, Task.class);
+                Intent listDataIntent = new Intent(this, DetailTask.class);
                 EditText et = (EditText)findViewById(R.id.txtTask);
                 String inputText = et.getText().toString();
                 listDataIntent.putExtra(Intent.EXTRA_TEXT, inputText);
                 et.setText("");
+                Log.d("pasando valores",inputText);
                 startActivity(listDataIntent);
         }
 
@@ -48,12 +50,9 @@ public class Fad_Activity extends Activity implements View.OnClickListener {
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
-        // Inflate the menu; this adds items to the action bar if it is present.
         MenuInflater inflater = getMenuInflater();
         inflater.inflate(R.menu.fad_, menu);
         return true;
-       // getMenuInflater().inflate(R.menu.fad_, menu);
-       // return true;
     }
-    
+
 }
